@@ -12,7 +12,7 @@ namespace Program
                 {5, 8, 1}
             };
 
-            double[] vectorB = { 10, 12, 18 };
+            double[] vectorB = {10, 12, 18};
             
             int number = matrix.GetLength(0);
             
