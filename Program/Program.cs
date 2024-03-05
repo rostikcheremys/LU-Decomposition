@@ -7,12 +7,12 @@ namespace Program
         public static void Main()
         {
             double[,] matrix = {
-                {3, 2, 1},
-                {3, 1, 4},
-                {5, 8, 1}
+                { 3, 2, 1 },
+                { 3, 1, 4 },
+                { 5, 8, 1 }
             };
 
-            double[] vectorB = {10, 12, 18};
+            double[] vectorB = { 10, 12, 18 };
             
             int number = matrix.GetLength(0);
             
