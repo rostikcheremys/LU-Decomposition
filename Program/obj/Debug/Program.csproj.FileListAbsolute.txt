@@ -4,3 +4,9 @@
 /Users/rostik/Documents/Programming/C#/LU-Decomposition/Program/Program/obj/Debug/Program.csproj.CoreCompileInputs.cache
 /Users/rostik/Documents/Programming/C#/LU-Decomposition/Program/Program/obj/Debug/Program.exe
 /Users/rostik/Documents/Programming/C#/LU-Decomposition/Program/Program/obj/Debug/Program.pdb
+D:\Programming\C#\LU-Decomposition\Program\obj\Debug\Program.exe
+D:\Programming\C#\LU-Decomposition\Program\obj\Debug\Program.pdb
+D:\Programming\C#\LU-Decomposition\Program\bin\Debug\Program.exe
+D:\Programming\C#\LU-Decomposition\Program\bin\Debug\Program.pdb
+D:\Programming\C#\LU-Decomposition\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Programming\C#\LU-Decomposition\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
